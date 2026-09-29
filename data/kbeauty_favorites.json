@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.0",
+  "collection_name": "My K-Beauty Shelf",
+  "description": "A personal collection of Korean beauty products I genuinely like, structured as semi-structured JSON data.",
+  "market": "K-Beauty",
+  "products": [
+    {
+      "product_id": "KB001",
+      "brand": "Medicube",
+      "product_name": "AGE-R Booster Pro X2",
+      "category": "beauty_device",
+      "subcategory": "skincare_device",
+      "size": null,
+      "key_terms": [
+        "AGE-R",
+        "booster",
+        "device"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB002",
+      "brand": "Biodance",
+      "product_name": "Real Deep Mask",
+      "category": "skincare",
+      "subcategory": "sheet_mask",
+      "size": "34g",
+      "key_terms": [
+        "collagen",
+        "ceramide",
+        "niacinamide",
+        "PDRN"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB003",
+      "brand": "Lilyeve",
+      "product_name": "Growturn Steam Booster with Brush",
+      "category": "haircare",
+      "subcategory": "hair_device",
+      "size": null,
+      "key_terms": [
+        "steam",
+        "booster",
+        "brush"
+      ],
+      "favorite": true,
+      "routine_area": "hair"
+    },
+    {
+      "product_id": "KB004",
+      "brand": "Lilyeve",
+      "product_name": "Scalpturn Cica PDRN Sebum-Free Tonic",
+      "category": "haircare",
+      "subcategory": "scalp_tonic",
+      "size": "100ml / 30ml",
+      "key_terms": [
+        "Cica",
+        "PDRN",
+        "scalp"
+      ],
+      "favorite": true,
+      "routine_area": "scalp"
+    },
+    {
+      "product_id": "KB005",
+      "brand": "COSRX",
+      "product_name": "Acne Master Patch",
+      "category": "skincare",
+      "subcategory": "acne_patch",
+      "size": null,
+      "key_terms": [
+        "acne",
+        "patch"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB006",
+      "brand": "Sulwhasoo",
+      "product_name": "Concentrated Ginseng Mask",
+      "category": "skincare",
+      "subcategory": "sheet_mask",
+      "size": "1 sheet",
+      "key_terms": [
+        "ginseng",
+        "mask"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB007",
+      "brand": "IOPE",
+      "product_name": "Vitamin C Expert 25 Ampoule",
+      "category": "skincare",
+      "subcategory": "ampoule",
+      "size": "23ml",
+      "key_terms": [
+        "vitamin C",
+        "antioxidant",
+        "ampoule"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB008",
+      "brand": "Abib",
+      "product_name": "Hyaluronic Boom Serum Water Drop",
+      "category": "skincare",
+      "subcategory": "serum",
+      "size": "50ml",
+      "key_terms": [
+        "hyaluronic",
+        "serum"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB009",
+      "brand": "DR.REJUALL",
+      "product_name": "Advanced PDRN Copper Peptide Serum",
+      "category": "skincare",
+      "subcategory": "serum",
+      "size": "30ml",
+      "key_terms": [
+        "PDRN",
+        "copper peptide",
+        "serum"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB010",
+      "brand": "Medicube",
+      "product_name": "AGE-R PDRN Booster Gel",
+      "category": "skincare",
+      "subcategory": "booster_gel",
+      "size": "300ml",
+      "key_terms": [
+        "AGE-R",
+        "PDRN",
+        "booster"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB011",
+      "brand": "Medicube",
+      "product_name": "EGF NAD+ Firming Serum",
+      "category": "skincare",
+      "subcategory": "serum",
+      "size": "30ml",
+      "key_terms": [
+        "EGF",
+        "NAD+",
+        "firming"
+      ],
+      "favorite": true,
+      "routine_area": "face"
+    },
+    {
+      "product_id": "KB012",
+      "brand": "CKD",
+      "product_name": "Retino Collagen Low Molecular 300 Guasha Neck Cream",
+      "category": "skincare",
+      "subcategory": "neck_cream",
+      "size": "50ml",
+      "key_terms": [
+        "retino",
+        "collagen",
+        "guasha"
+      ],
+      "favorite": true,
+      "routine_area": "neck"
+    }
+  ]
+}
+    
